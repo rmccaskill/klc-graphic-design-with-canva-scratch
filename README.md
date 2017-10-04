@@ -1,3 +1,5 @@
+# NOT YET AVAILABLE TO CHAPTERS / IN TESTING PHASE
+
 ## English: (Scroll down for French)
 
 # Kids Learning Code: Graphic Design with Canva &amp; Scratch
